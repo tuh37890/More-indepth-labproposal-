@@ -8,7 +8,8 @@ TODO
 Interactive coloring book;shows user how to draw and color a zoo animal
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
-Having 5 zoo animals fully drawn and colored ad the user being able to decide which one they want and theme music being included
+My software will use turtle to make the drawing of the shapes and contain for loops to keep asking the user what they want to see and ask them if they would want to see another animal drawn in which they can reply ["yes","y","n",or "no"]. Other features that the simulation will contain is audio in the beginning after the use has selected choose, such as a hooray and maybe even a theme song in the beginning. There will be lots of colors and shapes involved to complete the drawing for each animal. There will be 5 drawings in total, a tiger, penguin, bear, fish, and a flamingo.
+
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
